@@ -8,7 +8,7 @@ This repository contains code for a reverse shell client that connects to a pre-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribute](#contribute)
-- [License](#license)
+
 
 ## Features
 
